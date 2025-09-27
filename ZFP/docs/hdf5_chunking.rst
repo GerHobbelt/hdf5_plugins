@@ -91,7 +91,7 @@ By *state iteration* dimension, we are referring to the main iteration
 loop(s) of the data producer. For many PDE-based simulations, the main
 iteration dimension is *time*. But, for some *outer loop* methods, the
 main iteration dimension(s) might be some kind of parameter study including
-multiple paramaters.
+multiple parameters.
 
 The challenge here is to manage the data in a way that meets ZFP_'s
 chunklet size and shape *minimum* requirements. In any H5Dwrite_ at least 4

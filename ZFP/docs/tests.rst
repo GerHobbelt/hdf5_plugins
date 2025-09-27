@@ -34,7 +34,7 @@ Write Test Options
         chunk=256                      set chunk size for 1D dataset
         doint=0                              also do integer 1D data
     
-    ZFP compression paramaters...
+    ZFP compression parameters...
         zfpmode=3        (1=rate,2=prec,3=acc,4=expert,5=reversible)
         rate=4                      set rate for rate mode of filter
         acc=0               set accuracy for accuracy mode of filter
